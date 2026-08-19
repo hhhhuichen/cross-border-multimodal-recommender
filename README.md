@@ -3,8 +3,7 @@
 
 The release contains the model, independent baselines, data-contract and
 evaluation code, data-collection/build pipelines, and regression tests. Large
-datasets, image/text features, checkpoints, generated result files, paper
-PDFs, and local caches are intentionally excluded from this source release.
+datasets, image/text features, checkpoints, generated result files, and local caches are intentionally excluded from this source release.
 
 ## Requirements
 
