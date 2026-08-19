@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local datasets and generated features
+data_off/
+data_xmarket/
+data/
+datasets/
+
+# Training checkpoints and generated evaluation outputs
+ckpt/
+results/
+*.pt
+*.pth
+*.ckpt
+
+# Local experiment and tool state
+.env
+*.log
+.DS_Store
+
